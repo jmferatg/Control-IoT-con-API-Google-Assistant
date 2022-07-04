@@ -2,9 +2,9 @@
 Controlador de Releé con Asistente de Voz de Google
 
 Materiales:
--Node MCU v3
--Módulos Releé
--Wifi
--Carga a controlar On / off
--Cables
--Servidor Thingspeak
+<br> -Node MCU v3
+<br> -Módulos Releé
+<br> -Wifi
+<br> -Carga a controlar On / off
+<br> -Cables
+<br> -Servidor Thingspeak
